@@ -58,5 +58,5 @@ README.md
 repository link:
 **https://github.com/rehan-04/totle-frontend-assignment**
 
-vidoe Link:
+video Link:
 **https://drive.google.com/file/d/1IPhx0sA_aqrywz0QKtKyq0pp3MGq_eIz/view?usp=sharing**
