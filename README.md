@@ -53,7 +53,7 @@ README.md
 3. Open the URL shown (usually http://localhost:5173).
 
 
-## 🔗 GitHub Repository
+## GitHub Repository
 
-Add your repository link here:
-**👉 <your-github-repo-link-here>**
+repository link:
+****
